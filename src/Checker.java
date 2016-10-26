@@ -109,7 +109,7 @@ public class Checker {
 	public void checkerWhite34(Graphics g){
 		g.fillOval(white34X, white34Y, 69, 69);
 	}
-	
+	//
 	public void checkerBlue11(Graphics g){
 		
 		g.fillOval(blue11X, blue11Y, 69, 69);

@@ -12,7 +12,7 @@ public class Colision {
 	public int ball15Y=33;
 	public int ball17X=560;
 	public int ball17Y=33;
-	
+	//
 	public int ball22X=6;
 	public int ball22Y=110;
 	public int ball24X=166;
